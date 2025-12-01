@@ -1,0 +1,35 @@
+{"vin":"veh1","messageType": "start","timestamp": "2024-06-01T12:00:00Z","payload":{"mileage": 1000, "fuelLevel": 75, "engineStatus": "on"}}
+{"vin":"veh1","messageType": "gps","timestamp": "2024-06-01T12:00:05Z","payload":{"latitude": 37.7749, "longitude": -122.4194}}
+{"vin":"veh1","messageType": "gps","timestamp": "2024-06-01T12:05:05Z","payload":{"latitude": 37.7750, "longitude": -122.4180}}
+{"vin":"veh1","messageType": "gps","timestamp": "2024-06-01T12:10:05Z","payload":{"latitude": 37.7755, "longitude": -122.4170}}
+{"vin":"veh1","messageType": "gps","timestamp": "2024-06-01T12:15:05Z","payload":{"latitude": 37.7760, "longitude": -122.4160}}
+{"vin":"veh1","messageType": "gps","timestamp": "2024-06-01T12:20:05Z","payload":{"latitude": 37.7765, "longitude": -122.4150}}
+{"vin":"veh1","messageType": "dtc","timestamp": "2024-06-01T12:21:05Z","payload":{"code":"P220"}}
+{"vin":"veh1","messageType": "gps","timestamp": "2024-06-01T12:25:05Z","payload":{"latitude": 37.7770, "longitude": -122.4140}}
+{"vin":"veh1","messageType": "stop","timestamp": "2024-06-01T12:30:00Z","payload":{"mileage": 1010, "fuelLevel": 73, "engineStatus": "off"}}
+{"vin":"veh2","messageType": "start","timestamp": "2024-06-01T12:00:00Z","payload":{"mileage": 10, "fuelLevel": 75, "engineStatus": "on"}}
+{"vin":"veh2","messageType": "gps","timestamp": "2024-06-01T12:00:05Z","payload":{"latitude": 37.7749, "longitude": -122.4194}}
+{"vin":"veh2","messageType": "gps","timestamp": "2024-06-01T12:05:05Z","payload":{"latitude": 37.7750, "longitude": -122.4180}}
+{"vin":"veh2","messageType": "gps","timestamp": "2024-06-01T12:10:05Z","payload":{"latitude": 37.7755, "longitude": -122.4170}}
+{"vin":"veh2","messageType": "gps","timestamp": "2024-06-01T12:15:05Z","payload":{"latitude": 37.7760, "longitude": -122.4160}}
+{"vin":"veh2","messageType": "gps","timestamp": "2024-06-01T12:20:05Z","payload":{"latitude": 37.7765, "longitude": -122.4150}}
+{"vin":"veh2","messageType": "gps","timestamp": "2024-06-01T12:25:05Z","payload":{"latitude": 37.7770, "longitude": -122.4140}}
+{"vin":"veh2","messageType": "stop","timestamp": "2024-06-01T12:30:00Z","payload":{"mileage": 30, "fuelLevel": 70, "engineStatus": "off"}}
+{"vin":"veh3","messageType": "start","timestamp": "2024-06-01T12:00:00Z","payload":{"mileage": 100, "fuelLevel": 75, "engineStatus": "on"}}
+{"vin":"veh3","messageType": "gps","timestamp": "2024-06-01T12:00:05Z","payload":{"latitude": 37.7749, "longitude": -122.4194}}
+{"vin":"veh3","messageType": "gps","timestamp": "2024-06-01T12:05:05Z","payload":{"latitude": 37.7750, "longitude": -122.4180}}
+{"vin":"veh3","messageType": "gps","timestamp": "2024-06-01T12:10:05Z","payload":{"latitude": 37.7755, "longitude": -122.4170}}
+{"vin":"veh3","messageType": "gps","timestamp": "2024-06-01T12:15:05Z","payload":{"latitude": 37.7760, "longitude": -122.4160}}
+{"vin":"veh3","messageType": "gps","timestamp": "2024-06-01T12:20:05Z","payload":{"latitude": 37.7765, "longitude": -122.4150}}
+{"vin":"veh3","messageType": "dtc","timestamp": "2024-06-01T12:21:05Z","payload":{"code":"P210"}}
+{"vin":"veh3","messageType": "gps","timestamp": "2024-06-01T12:25:05Z","payload":{"latitude": 37.7770, "longitude": -122.4140}}
+{"vin":"veh3","messageType": "stop","timestamp": "2024-06-01T12:30:00Z","payload":{"mileage": 110, "fuelLevel": 73, "engineStatus": "off"}}
+{"vin":"veh4","messageType": "start","timestamp": "2024-06-01T12:00:00Z","payload":{"mileage": 100, "fuelLevel": 100, "engineStatus": "on"}}
+{"vin":"veh4","messageType": "gps","timestamp": "2024-06-01T12:00:05Z","payload":{"latitude": 37.7749, "longitude": -122.4194}}
+{"vin":"veh4","messageType": "gps","timestamp": "2024-06-01T12:05:05Z","payload":{"latitude": 37.7750, "longitude": -122.4180}}
+{"vin":"veh4","messageType": "gps","timestamp": "2024-06-01T12:10:05Z","payload":{"latitude": 37.7755, "longitude": -122.4170}}
+{"vin":"veh4","messageType": "gps","timestamp": "2024-06-01T12:15:05Z","payload":{"latitude": 37.7760, "longitude": -122.4160}}
+{"vin":"veh4","messageType": "gps","timestamp": "2024-06-01T12:20:05Z","payload":{"latitude": 37.7765, "longitude": -122.4150}}
+{"vin":"veh4","messageType": "dtc","timestamp": "2024-06-01T12:21:05Z","payload":{"code":"P200"}}
+{"vin":"veh4","messageType": "gps","timestamp": "2024-06-01T12:25:05Z","payload":{"latitude": 37.7770, "longitude": -122.4140}}
+{"vin":"veh4","messageType": "stop","timestamp": "2024-06-01T12:30:00Z","payload":{"mileage": 200, "fuelLevel": 80, "engineStatus": "off"}}
