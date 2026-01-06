@@ -37,7 +37,4 @@ object Hello extends App {
     .partitionBy("vin")
     .format("json")
     .save("output")
-  // uncomment to keep the Spark UI available for inspection
-  // localhost:4040
-  // Thread.sleep(10000000)
 }
